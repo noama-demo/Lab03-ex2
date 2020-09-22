@@ -11,6 +11,8 @@ namespace gitDemo
         public ClassB()
         {
             Console.WriteLine("ClassB initialized");
+			//some comment to class B
+
         }
     }
 }
