@@ -12,7 +12,9 @@ namespace gitDemo
         {
             Console.WriteLine("ClassB initialized");
 			//some comment to class B
-
+			
+			//Added featureB
+			Console.WriteLine("FeatureB");
         }
     }
 }
