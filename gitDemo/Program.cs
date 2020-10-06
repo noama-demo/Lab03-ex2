@@ -15,6 +15,7 @@ namespace gitDemo
 
             ClassA ca = new ClassA();
             ClassB cb = new ClassB();
+			Console.WriteLine("Both classes initialized with comment");
 
         }
     }
